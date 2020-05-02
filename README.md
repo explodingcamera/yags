@@ -1,5 +1,5 @@
 # Yet Another Git Strategy 
-> The Last git branching model you'll ever need
+> The Last Git Branching Model You'll Ever Need
 
 # Key Benefits
 
@@ -57,7 +57,7 @@ $ git commit -m "feat: add database user model" \
 ```
 
 ## Releases
-Before releasing a version to production, it is recommended to sanitize-check your current staging environment — even if all tests pass. If you are confident, the next step is to (optionally) commit a version bump to `develop`
+Before releasing a version to production, it is recommended to sanitize-check your current staging environment — even if all tests pass. If you are confident, the next step is to (optionally) commit a version bump to `develop`:
 
 ```bash
 $ git checkout develop
@@ -65,7 +65,7 @@ $ # bump your version to v0.1.0
 $ git commit -m "chore: bump version to v0.1.0"
 ```
 
-The final step then is merging this to your `master` branch and tagging the version
+The final step then is merging this to your `master` branch and tagging the version:
 
 ```bash
 $ git checkout master
@@ -76,7 +76,7 @@ $ git push --tags
 
 ## Pre-Releases
 
-Pre-Releases are just tagged development versions. To automate pushing e.g your library to npm or similar, you need to add a realease step to your CI/CD system that runs on every tag `*-{alpha,beta}.*` 
+Pre-Releases are just tagged development versions. To for example automate pushing your library to npm or similar, you need to add a release step to your CI/CD system that runs on every tag `*-{alpha,beta}.*` 
 
 ```bash
 $ git checkout develop
@@ -103,7 +103,7 @@ $ git cherry-pick 3af9286 # the commit sha of the hotfix
 ```
 
 ## CI/CD
-Continuous Integration and Continuous are crucial parts of YAGS. Depending on your setup, this can look very different, but the general recomendation is:
+Continuous Integration and Continuous are crucial parts of YAGS. Depending on your setup, this can look very different, but the general recommendation is:
 
 - `on every commit, anywhere`: Run all tests and try to build
 - `on every commit to develop`: Deploy to your staging environment
@@ -114,12 +114,12 @@ These add human machine-readable meaning to your commit messages and branches (b
 
 - `feat` - A new feature
 - `fix` - A bug fix
-- `chore` - Changes that don't affect any code, e.g releases 
+- `chore` - Changes that don't affect any code, e.g. releases 
 - `build` - changes in the build system
 - `docs` - Documentation
 - `style` - Cosmetic code changes
 - `refactor` - A code change that doesn't fix/add anything new
-- `perf` - A code change that imporoves performance
+- `perf` - A code change that improves performance
 - `test` - Adding or correcting tests
 
 # Recommendedations
@@ -136,5 +136,5 @@ These add human machine-readable meaning to your commit messages and branches (b
 
 # Inspiration
 
-I've been heavily inspired by [Trunk Based Development](https://trunkbaseddevelopment.com/), [The Github Flow](https://guides.github.com/introduction/flow/) and the [Gitlab flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html).
-With YAGS, I've aimed to take the best Parts of all of these and create a lightweight, opinioated and very practical alternative.
+I've been heavily inspired by [Trunk Based Development](https://trunkbaseddevelopment.com/), the [GitHub Flow](https://guides.github.com/introduction/flow/) and the [GitLab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html).
+With YAGS, I've aimed to take the best Parts of all of these and create a lightweight, opinionated and very practical alternative.
