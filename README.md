@@ -1,11 +1,5 @@
 # Yet Another Git Strategy -  The Last git branching model you'll ever need
 
-https://www.conventionalcommits.org/en/v1.0.0/
-`<type>[optional scope]: <description>`
-`refactor: rename x to y`
-`refactor(api): rename x to y`
-- Commits AND Branches (e.g `feat/asdfasdf`)
-  
 # Key Benefits
 
 - Easy Continuous Integration
