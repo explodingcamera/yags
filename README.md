@@ -63,15 +63,16 @@ Before releasing a version to production, it is recommended to sanitize-check yo
 $ git checkout develop
 $ # bump your version to v0.1.0
 $ git commit -m "chore: bump version to v0.1.0"
+$ git tag v0.1.0
+$ git push --tags
 ```
 
-The final step then is merging this to your `master` branch and tagging the version:
+The final step then is merging this to your `master` branch:
 
 ```bash
 $ git checkout master
-$ git merge develop -m "release v0.1.0"
-$ git tag v0.1.0
-$ git push --tags
+$ git merge develop --ff-only
+$ git push
 ```
 
 ## Pre-Releases
@@ -124,15 +125,23 @@ These add human machine-readable meaning to your commit messages and branches (b
 
 # Recommendedations
 ## Tools
+
+While this git strategy will work with any combination of build/test tools, these can serve as a good starting point for new projects
+
 ### NodeJS/JavaScript/Typescript
 - Pre-Commit Hooks with [Husky](https://www.npmjs.com/package/husky)
   - one hook running your tests
   - one hook running [commitlint](https://github.com/conventional-changelog/commitlint)
 - ESLint for linting TypeScript/JavaScript code (optionally with my [eslint preset](https://www.npmjs.com/package/@explodingcamera/eslint-config))
+- [release-it](https://www.npmjs.com/package/release-it) with @release-it/conventional-changelog and github releases enabled
+
 
 ## Opensource Projetcts
-* [A Code of Conduct](https://www.contributor-covenant.org/)
-* [A simple Open-Source License like the MIT-License](https://choosealicense.com/)
+
+These are some recommendations specifically for opensource-projects. They don't really have a lot to do with this strategy but could be helpful.
+
+* Add a [Code of Conduct](https://www.contributor-covenant.org/) to your project
+* Choose a [simple Open-Source License](https://choosealicense.com/)
 
 # Inspiration
 
