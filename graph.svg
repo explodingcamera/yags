@@ -1,0 +1,305 @@
+<svg width="1238.921875" height="655" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g transform="translate(10, 10)">
+    <g>
+      <path d="M 100 600 L 0 540 L 0 480 L 0 420 L 0 360 L 0 300 L 0 240 L 0 180 L 0 120 L 0 60 L 0 0" fill="transparent" stroke="#000000" stroke-width="4" transform="translate(16, 16)"></path>
+      <path d="M 0 240 L 50 180 L 50 120 L 50 60 L 0 0" fill="transparent" stroke="#000000" stroke-width="4" transform="translate(16, 16)"></path>
+      <path d="M 100 600 L 100 540 L 100 480 L 100 420 L 100 360 L 0 300" fill="transparent" stroke="#000000" stroke-width="4" transform="translate(16, 16)"></path>
+      <path d="M 0 480 L 150 420 L 100 360" fill="transparent" stroke="#000000" stroke-width="4" transform="translate(16, 16)"></path>
+    </g>
+    <g>
+      <g transform="translate(0, 0)">
+        <g>
+          <defs>
+            <circle cx="16" cy="16" r="16" id="e87ead646f9504b70412958f66e0a51451f284cf" fill="#6963FF"></circle>
+            <clipPath id="clip-e87ead646f9504b70412958f66e0a51451f284cf">
+              <use href="#e87ead646f9504b70412958f66e0a51451f284cf" xlink:href="#e87ead646f9504b70412958f66e0a51451f284cf"></use>
+            </clipPath>
+          </defs>
+          <use href="#e87ead646f9504b70412958f66e0a51451f284cf" xlink:href="#e87ead646f9504b70412958f66e0a51451f284cf" clip-path="url(#clip-e87ead646f9504b70412958f66e0a51451f284cf)" stroke="#000000" stroke-width="8"></use>
+        </g>
+        <g transform="translate(0, 0)">
+          <g transform="translate(283.4375, 16)">
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">Initial commit 🎉</text>
+          </g>
+          <g transform="translate(200, 0)">
+            <g>
+              <rect width="73.4375" height="26" rx="10" fill="white" stroke="#6963FF"></rect>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#6963FF" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13">develop</text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(50, 60)">
+        <g>
+          <defs>
+            <circle cx="16" cy="16" r="16" id="7a9741317e6244ad6775eafacbd9abebcb249c30" fill="#47E8D4"></circle>
+            <clipPath id="clip-7a9741317e6244ad6775eafacbd9abebcb249c30">
+              <use href="#7a9741317e6244ad6775eafacbd9abebcb249c30" xlink:href="#7a9741317e6244ad6775eafacbd9abebcb249c30"></use>
+            </clipPath>
+          </defs>
+          <use href="#7a9741317e6244ad6775eafacbd9abebcb249c30" xlink:href="#7a9741317e6244ad6775eafacbd9abebcb249c30" clip-path="url(#clip-7a9741317e6244ad6775eafacbd9abebcb249c30)" stroke="#000000" stroke-width="8"></use>
+        </g>
+        <g transform="translate(16, 16)">
+          <path d="M-9.28267379513496,-11.139208554161948 L-27.758200519814363,-12.638524593550372 Q-14.404148992450798,-17.284978790940954 -7.425758522869912,-29.58222625767075 L-7.425758522869912,-29.58222625767075"></path>
+        </g>
+        <g transform="translate(-50, 0)">
+          <g transform="translate(367.015625, 16)">
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">feat: add database user model</text>
+          </g>
+          <g transform="translate(200, 0)">
+            <g>
+              <rect width="157.015625" height="27" rx="10" fill="white" stroke="#47E8D4"></rect>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#47E8D4" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13.5">feat/my-new-feature</text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(50, 120)">
+        <g>
+          <defs>
+            <circle cx="16" cy="16" r="16" id="435e8e296e14fb91b849f1bc532e27d7c69ad261" fill="#47E8D4"></circle>
+            <clipPath id="clip-435e8e296e14fb91b849f1bc532e27d7c69ad261">
+              <use href="#435e8e296e14fb91b849f1bc532e27d7c69ad261" xlink:href="#435e8e296e14fb91b849f1bc532e27d7c69ad261"></use>
+            </clipPath>
+          </defs>
+          <use href="#435e8e296e14fb91b849f1bc532e27d7c69ad261" xlink:href="#435e8e296e14fb91b849f1bc532e27d7c69ad261" clip-path="url(#clip-435e8e296e14fb91b849f1bc532e27d7c69ad261)" stroke="#000000" stroke-width="8"></use>
+        </g>
+        <g transform="translate(16, 16)">
+          <path d="M8.878689293818311e-16,-14.5 L-13.233454043085521,-27.479550471023785 Q1.3777276490407724e-15,-22.5 13.233454043085525,-27.479550471023785 L13.233454043085525,-27.479550471023785"></path>
+        </g>
+        <g transform="translate(-50, 0)">
+          <g transform="translate(367.015625, 16)">
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">fix: fix issue when applying the model to the database</text>
+          </g>
+          <g transform="translate(200, 0)">
+            <g>
+              <rect width="157.015625" height="27" rx="10" fill="white" stroke="#47E8D4"></rect>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#47E8D4" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13.5">feat/my-new-feature</text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(50, 180)">
+        <g>
+          <defs>
+            <circle cx="16" cy="16" r="16" id="631c2dc4a9a21750d2010c5a99895d7ec2be372c" fill="#47E8D4"></circle>
+            <clipPath id="clip-631c2dc4a9a21750d2010c5a99895d7ec2be372c">
+              <use href="#631c2dc4a9a21750d2010c5a99895d7ec2be372c" xlink:href="#631c2dc4a9a21750d2010c5a99895d7ec2be372c"></use>
+            </clipPath>
+          </defs>
+          <use href="#631c2dc4a9a21750d2010c5a99895d7ec2be372c" xlink:href="#631c2dc4a9a21750d2010c5a99895d7ec2be372c" clip-path="url(#clip-631c2dc4a9a21750d2010c5a99895d7ec2be372c)" stroke="#000000" stroke-width="8"></use>
+        </g>
+        <g transform="translate(16, 16)">
+          <path d="M8.878689293818311e-16,-14.5 L-13.233454043085521,-27.479550471023785 Q1.3777276490407724e-15,-22.5 13.233454043085525,-27.479550471023785 L13.233454043085525,-27.479550471023785"></path>
+        </g>
+        <g transform="translate(-50, 0)">
+          <g transform="translate(367.015625, 16)">
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">test: add basic tests for newly created users</text>
+          </g>
+          <g transform="translate(200, 0)">
+            <g>
+              <rect width="157.015625" height="27" rx="10" fill="white" stroke="#47E8D4"></rect>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#47E8D4" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13.5">feat/my-new-feature</text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(0, 240)">
+        <g>
+          <defs>
+            <circle cx="16" cy="16" r="16" id="cf3f830bade35bc1caef1d39f43da4c1814ef939" fill="#6963FF"></circle>
+            <clipPath id="clip-cf3f830bade35bc1caef1d39f43da4c1814ef939">
+              <use href="#cf3f830bade35bc1caef1d39f43da4c1814ef939" xlink:href="#cf3f830bade35bc1caef1d39f43da4c1814ef939"></use>
+            </clipPath>
+          </defs>
+          <use href="#cf3f830bade35bc1caef1d39f43da4c1814ef939" xlink:href="#cf3f830bade35bc1caef1d39f43da4c1814ef939" clip-path="url(#clip-cf3f830bade35bc1caef1d39f43da4c1814ef939)" stroke="#000000" stroke-width="8"></use>
+        </g>
+        <g transform="translate(16, 16)">
+          <path d="M8.878689293818311e-16,-14.5 L-13.233454043085521,-27.479550471023785 Q1.3777276490407724e-15,-22.5 13.233454043085525,-27.479550471023785 L13.233454043085525,-27.479550471023785"></path>
+        </g>
+        <g transform="translate(16, 16)">
+          <path d="M9.28267379513496,-11.13920855416195 L7.425758522869909,-29.582226257670754 Q14.404148992450798,-17.284978790940958 27.758200519814363,-12.638524593550375 L27.758200519814363,-12.638524593550375"></path>
+        </g>
+        <g transform="translate(0, 0)">
+          <g transform="translate(283.4375, 16)">
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">feat: my new feature</text>
+          </g>
+          <g transform="translate(200, 0)">
+            <g>
+              <rect width="73.4375" height="26" rx="10" fill="white" stroke="#6963FF"></rect>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#6963FF" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13">develop</text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(0, 300)">
+        <g>
+          <defs>
+            <circle cx="16" cy="16" r="16" id="53d898bdbf6d48463fc547f8ec82ffee34a91d0b" fill="#6963FF"></circle>
+            <clipPath id="clip-53d898bdbf6d48463fc547f8ec82ffee34a91d0b">
+              <use href="#53d898bdbf6d48463fc547f8ec82ffee34a91d0b" xlink:href="#53d898bdbf6d48463fc547f8ec82ffee34a91d0b"></use>
+            </clipPath>
+          </defs>
+          <use href="#53d898bdbf6d48463fc547f8ec82ffee34a91d0b" xlink:href="#53d898bdbf6d48463fc547f8ec82ffee34a91d0b" clip-path="url(#clip-53d898bdbf6d48463fc547f8ec82ffee34a91d0b)" stroke="#000000" stroke-width="8"></use>
+        </g>
+        <g transform="translate(16, 16)">
+          <path d="M8.878689293818311e-16,-14.5 L-13.233454043085521,-27.479550471023785 Q1.3777276490407724e-15,-22.5 13.233454043085525,-27.479550471023785 L13.233454043085525,-27.479550471023785"></path>
+        </g>
+        <g transform="translate(0, 0)">
+          <g transform="translate(366.96875, 16)">
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">chore: bump version to v0.1.0</text>
+          </g>
+          <g transform="translate(200, 0)">
+            <g>
+              <rect width="73.4375" height="26" rx="10" fill="white" stroke="#6963FF"></rect>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#6963FF" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13">develop</text>
+            </g>
+          </g>
+          <g transform="translate(283.4375, 16)" data-offset="12">
+            <g>
+              <path d="M 0,0 L 12,13 V 13 Q 12,13 22,13 H 63.53125 Q 73.53125,13 73.53125,3 V -3 Q 73.53125,-13 63.53125,-13 H 22 Q 12,-13 12,-13 V -13 z" fill="#6963FF" stroke="#6963FF"></path>
+              <text alignment-baseline="central" dominant-baseline="central" fill="white" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="22" y="0">v0.1.0</text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(100, 360)">
+        <g>
+          <defs>
+            <circle cx="16" cy="16" r="16" id="3c892f9a03c39150a161a0ac80c0365a33de6eb9" fill="#6BDB52"></circle>
+            <clipPath id="clip-3c892f9a03c39150a161a0ac80c0365a33de6eb9">
+              <use href="#3c892f9a03c39150a161a0ac80c0365a33de6eb9" xlink:href="#3c892f9a03c39150a161a0ac80c0365a33de6eb9"></use>
+            </clipPath>
+          </defs>
+          <use href="#3c892f9a03c39150a161a0ac80c0365a33de6eb9" xlink:href="#3c892f9a03c39150a161a0ac80c0365a33de6eb9" clip-path="url(#clip-3c892f9a03c39150a161a0ac80c0365a33de6eb9)" stroke="#000000" stroke-width="8"></use>
+        </g>
+        <g transform="translate(16, 16)">
+          <path d="M-12.433647422831891,-7.460188453699136 L-30.37207606547645,-2.790518853710323 Q-19.293590828532245,-11.576154497119347 -16.754964195850963,-25.485705303086124 L-16.754964195850963,-25.485705303086124"></path>
+        </g>
+        <g transform="translate(-100, 0)">
+          <g transform="translate(276.671875, 16)">
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">chore: release v0.1.0</text>
+          </g>
+          <g transform="translate(200, 0)">
+            <g>
+              <rect width="66.671875" height="26" rx="10" fill="white" stroke="#6BDB52"></rect>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#6BDB52" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13">master</text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(150, 420)">
+        <g>
+          <defs>
+            <circle cx="16" cy="16" r="16" id="d91b2c6ec211f024ca8f01b704462a5afab4e7ff" fill="#E84BA5"></circle>
+            <clipPath id="clip-d91b2c6ec211f024ca8f01b704462a5afab4e7ff">
+              <use href="#d91b2c6ec211f024ca8f01b704462a5afab4e7ff" xlink:href="#d91b2c6ec211f024ca8f01b704462a5afab4e7ff"></use>
+            </clipPath>
+          </defs>
+          <use href="#d91b2c6ec211f024ca8f01b704462a5afab4e7ff" xlink:href="#d91b2c6ec211f024ca8f01b704462a5afab4e7ff" clip-path="url(#clip-d91b2c6ec211f024ca8f01b704462a5afab4e7ff)" stroke="#000000" stroke-width="8"></use>
+        </g>
+        <g transform="translate(16, 16)">
+          <path d="M-9.28267379513496,-11.139208554161948 L-27.758200519814363,-12.638524593550372 Q-14.404148992450798,-17.284978790940954 -7.425758522869912,-29.58222625767075 L-7.425758522869912,-29.58222625767075"></path>
+        </g>
+        <g transform="translate(-150, 0)">
+          <g transform="translate(391.46875, 16)">
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">fix: prevent server from crashing when providing an empty username</text>
+          </g>
+          <g transform="translate(200, 0)">
+            <g>
+              <rect width="181.46875" height="27" rx="10" fill="white" stroke="#E84BA5"></rect>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#E84BA5" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13.5">hotfix/fix-password-hash</text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(0, 480)">
+        <g>
+          <defs>
+            <circle cx="16" cy="16" r="16" id="08e2ebd6bc2b669621131f35e3d35d1b49455a37" fill="#6963FF"></circle>
+            <clipPath id="clip-08e2ebd6bc2b669621131f35e3d35d1b49455a37">
+              <use href="#08e2ebd6bc2b669621131f35e3d35d1b49455a37" xlink:href="#08e2ebd6bc2b669621131f35e3d35d1b49455a37"></use>
+            </clipPath>
+          </defs>
+          <use href="#08e2ebd6bc2b669621131f35e3d35d1b49455a37" xlink:href="#08e2ebd6bc2b669621131f35e3d35d1b49455a37" clip-path="url(#clip-08e2ebd6bc2b669621131f35e3d35d1b49455a37)" stroke="#000000" stroke-width="8"></use>
+        </g>
+        <g transform="translate(16, 16)">
+          <path d="M8.878689293818311e-16,-14.5 L-13.233454043085521,-27.479550471023785 Q1.3777276490407724e-15,-22.5 13.233454043085525,-27.479550471023785 L13.233454043085525,-27.479550471023785"></path>
+        </g>
+        <g transform="translate(16, 16)">
+          <path d="M13.46291201783626,-5.385164807134504 L20.599340640788153,-22.492602454246455 Q20.890725544918336,-8.356290217967334 30.42890353591311,2.0813047835659484 L30.42890353591311,2.0813047835659484"></path>
+        </g>
+        <g transform="translate(0, 0)">
+          <g transform="translate(283.4375, 16)">
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">fix: prevent server from crashing when providing an empty username</text>
+          </g>
+          <g transform="translate(200, 0)">
+            <g>
+              <rect width="73.4375" height="26" rx="10" fill="white" stroke="#6963FF"></rect>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#6963FF" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13">develop</text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(0, 540)">
+        <g>
+          <defs>
+            <circle cx="16" cy="16" r="16" id="23843734cdf8171a2add50d673cadc8ea8b50e08" fill="#6963FF"></circle>
+            <clipPath id="clip-23843734cdf8171a2add50d673cadc8ea8b50e08">
+              <use href="#23843734cdf8171a2add50d673cadc8ea8b50e08" xlink:href="#23843734cdf8171a2add50d673cadc8ea8b50e08"></use>
+            </clipPath>
+          </defs>
+          <use href="#23843734cdf8171a2add50d673cadc8ea8b50e08" xlink:href="#23843734cdf8171a2add50d673cadc8ea8b50e08" clip-path="url(#clip-23843734cdf8171a2add50d673cadc8ea8b50e08)" stroke="#000000" stroke-width="8"></use>
+        </g>
+        <g transform="translate(16, 16)">
+          <path d="M8.878689293818311e-16,-14.5 L-13.233454043085521,-27.479550471023785 Q1.3777276490407724e-15,-22.5 13.233454043085525,-27.479550471023785 L13.233454043085525,-27.479550471023785"></path>
+        </g>
+        <g transform="translate(0, 0)">
+          <g transform="translate(366.96875, 16)">
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">chore: bump version to v0.1.1</text>
+          </g>
+          <g transform="translate(200, 0)">
+            <g>
+              <rect width="73.4375" height="26" rx="10" fill="white" stroke="#6963FF"></rect>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#6963FF" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13">develop</text>
+            </g>
+          </g>
+          <g transform="translate(283.4375, 16)" data-offset="12">
+            <g>
+              <path d="M 0,0 L 12,13 V 13 Q 12,13 22,13 H 63.53125 Q 73.53125,13 73.53125,3 V -3 Q 73.53125,-13 63.53125,-13 H 22 Q 12,-13 12,-13 V -13 z" fill="#6963FF" stroke="#6963FF"></path>
+              <text alignment-baseline="central" dominant-baseline="central" fill="white" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="22" y="0">v0.1.1</text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(100, 600)">
+        <g>
+          <defs>
+            <circle cx="16" cy="16" r="16" id="92587bdf389b14a26111e736c215607398294e2a" fill="#6BDB52"></circle>
+            <clipPath id="clip-92587bdf389b14a26111e736c215607398294e2a">
+              <use href="#92587bdf389b14a26111e736c215607398294e2a" xlink:href="#92587bdf389b14a26111e736c215607398294e2a"></use>
+            </clipPath>
+          </defs>
+          <use href="#92587bdf389b14a26111e736c215607398294e2a" xlink:href="#92587bdf389b14a26111e736c215607398294e2a" clip-path="url(#clip-92587bdf389b14a26111e736c215607398294e2a)" stroke="#000000" stroke-width="8"></use>
+        </g>
+        <g transform="translate(16, 16)">
+          <path d="M8.878689293818311e-16,-14.5 L-13.233454043085521,-27.479550471023785 Q1.3777276490407724e-15,-22.5 13.233454043085525,-27.479550471023785 L13.233454043085525,-27.479550471023785"></path>
+        </g>
+        <g transform="translate(16, 16)">
+          <path d="M-12.433647422831891,-7.460188453699136 L-30.37207606547645,-2.790518853710323 Q-19.293590828532245,-11.576154497119347 -16.754964195850963,-25.485705303086124 L-16.754964195850963,-25.485705303086124"></path>
+        </g>
+        <g transform="translate(-100, 0)">
+          <g transform="translate(276.671875, 16)">
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">chore: release v0.1.1</text>
+          </g>
+          <g transform="translate(200, 0)">
+            <g>
+              <rect width="66.671875" height="26" rx="10" fill="white" stroke="#6BDB52"></rect>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#6BDB52" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13">master</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

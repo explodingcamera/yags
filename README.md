@@ -11,6 +11,7 @@
 - Improves Collaboration
 
 # Table of Contents  
+- [Overview](#overview)
 - [How It Works](#how-it-works)
   - ["Feature" Branches](#feature-branches)
   - [Commits](#commits)
@@ -21,6 +22,10 @@
 - [Commit Types](#commit-types-based-of-the-angular-convention)
 - [Reccomendations](#reccomendations)
 - [Inspiration](#inspiration)
+
+# Overview
+
+![Graph](./graph.svg)
 
 # How It Works
 
