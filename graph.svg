@@ -177,13 +177,13 @@
           <path d="M-12.433647422831891,-7.460188453699136 L-30.37207606547645,-2.790518853710323 Q-19.293590828532245,-11.576154497119347 -16.754964195850963,-25.485705303086124 L-16.754964195850963,-25.485705303086124"></path>
         </g>
         <g transform="translate(-100, 0)">
-          <g transform="translate(276.671875, 16)">
+          <g transform="translate(300, 16)">
             <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">chore: release v0.1.0</text>
           </g>
           <g transform="translate(200, 0)">
             <g>
-              <rect width="66.671875" height="26" rx="10" fill="white" stroke="#6BDB52"></rect>
-              <text alignment-baseline="central" dominant-baseline="central" fill="#6BDB52" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13">master</text>
+              <rect width="90" height="26" rx="10" fill="white" stroke="#6BDB52"></rect>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#6BDB52" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13">production</text>
             </g>
           </g>
         </g>
@@ -289,13 +289,13 @@
           <path d="M-12.433647422831891,-7.460188453699136 L-30.37207606547645,-2.790518853710323 Q-19.293590828532245,-11.576154497119347 -16.754964195850963,-25.485705303086124 L-16.754964195850963,-25.485705303086124"></path>
         </g>
         <g transform="translate(-100, 0)">
-          <g transform="translate(276.671875, 16)">
+          <g transform="translate(300, 16)">
             <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">chore: release v0.1.1</text>
           </g>
           <g transform="translate(200, 0)">
             <g>
-              <rect width="66.671875" height="26" rx="10" fill="white" stroke="#6BDB52"></rect>
-              <text alignment-baseline="central" dominant-baseline="central" fill="#6BDB52" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13">master</text>
+              <rect width="90" height="26" rx="10" fill="white" stroke="#6BDB52"></rect>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#6BDB52" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13">production</text>
             </g>
           </g>
         </g>
