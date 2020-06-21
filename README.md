@@ -115,7 +115,7 @@ $ git cherry-pick 3af9286 # the commit sha of the hotfix
 
 ## CI/CD
 
-Continuous Integration and Continuous are crucial parts of YAGS. Depending on your setup, this can look very different, but the general recommendation is:
+Continuous Integration and Continuous Delivery are crucial parts of YAGS. Depending on your setup, this can look very different, but the general recommendation is:
 
 - `on every commit, anywhere`: Run all tests and try to build
 - `on every commit to develop`: Deploy to your staging environment

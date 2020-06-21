@@ -81,7 +81,7 @@ $ git cherry-pick {commit-hash}
 
 ## CI/CD
 
-Continuous Integration and Continuous are crucial parts of YAGS. Depending on your setup, this can look very different, but the general recommendation is:
+Continuous Integration and Continuous Delivery are crucial parts of YAGS. Depending on your setup, this can look very different, but the general recommendation is:
 
 - `all commit`: Run all tests and try to build
 - `commits to develop`: Deploy to staging environment
