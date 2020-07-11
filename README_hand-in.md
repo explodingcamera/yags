@@ -78,11 +78,3 @@ After a hotfix lands in production, a more elaborate fix can be created for deve
 $ git checkout develop
 $ git cherry-pick {commit-hash}
 ```
-
-## CI/CD
-
-Continuous Integration and Continuous Delivery are crucial parts of YAGS. Depending on your setup, this can look very different, but the general recommendation is:
-
-- `all commit`: Run all tests and try to build
-- `commits to develop`: Deploy to staging environment
-- `commits to production`: Deploy to production environment
