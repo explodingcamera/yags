@@ -19,12 +19,12 @@
         </g>
         <g transform="translate(0, 0)">
           <g transform="translate(283.4375, 16)">
-            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">Initial commit 🎉</text>
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">Initial commit 🎉</text>
           </g>
           <g transform="translate(200, 0)">
             <g>
               <rect width="73.4375" height="26" rx="10" fill="white" stroke="#6963FF"></rect>
-              <text alignment-baseline="central" dominant-baseline="central" fill="#6963FF" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13">develop</text>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#6963FF" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="16">develop</text>
             </g>
           </g>
         </g>
@@ -44,12 +44,12 @@
         </g>
         <g transform="translate(-50, 0)">
           <g transform="translate(367.015625, 16)">
-            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">feat: add database user model</text>
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">feat: add database user model</text>
           </g>
           <g transform="translate(200, 0)">
             <g>
               <rect width="157.015625" height="27" rx="10" fill="white" stroke="#47E8D4"></rect>
-              <text alignment-baseline="central" dominant-baseline="central" fill="#47E8D4" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13.5">feat/my-new-feature</text>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#47E8D4" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="17">feat/my-new-feature</text>
             </g>
           </g>
         </g>
@@ -69,12 +69,12 @@
         </g>
         <g transform="translate(-50, 0)">
           <g transform="translate(367.015625, 16)">
-            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">fix: fix issue when applying the model to the database</text>
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">fix: fix issue when applying the model to the database</text>
           </g>
           <g transform="translate(200, 0)">
             <g>
               <rect width="157.015625" height="27" rx="10" fill="white" stroke="#47E8D4"></rect>
-              <text alignment-baseline="central" dominant-baseline="central" fill="#47E8D4" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13.5">feat/my-new-feature</text>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#47E8D4" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="17">feat/my-new-feature</text>
             </g>
           </g>
         </g>
@@ -94,12 +94,12 @@
         </g>
         <g transform="translate(-50, 0)">
           <g transform="translate(367.015625, 16)">
-            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">test: add basic tests for newly created users</text>
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">test: add basic tests for newly created users</text>
           </g>
           <g transform="translate(200, 0)">
             <g>
               <rect width="157.015625" height="27" rx="10" fill="white" stroke="#47E8D4"></rect>
-              <text alignment-baseline="central" dominant-baseline="central" fill="#47E8D4" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13.5">feat/my-new-feature</text>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#47E8D4" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="17">feat/my-new-feature</text>
             </g>
           </g>
         </g>
@@ -122,12 +122,12 @@
         </g>
         <g transform="translate(0, 0)">
           <g transform="translate(283.4375, 16)">
-            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">feat: my new feature</text>
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">feat: my new feature</text>
           </g>
           <g transform="translate(200, 0)">
             <g>
               <rect width="73.4375" height="26" rx="10" fill="white" stroke="#6963FF"></rect>
-              <text alignment-baseline="central" dominant-baseline="central" fill="#6963FF" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13">develop</text>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#6963FF" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="16">develop</text>
             </g>
           </g>
         </g>
@@ -147,18 +147,18 @@
         </g>
         <g transform="translate(0, 0)">
           <g transform="translate(366.96875, 16)">
-            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">chore: bump version to v0.1.0</text>
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">chore: bump version to v0.1.0</text>
           </g>
           <g transform="translate(200, 0)">
             <g>
               <rect width="73.4375" height="26" rx="10" fill="white" stroke="#6963FF"></rect>
-              <text alignment-baseline="central" dominant-baseline="central" fill="#6963FF" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13">develop</text>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#6963FF" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="16">develop</text>
             </g>
           </g>
           <g transform="translate(283.4375, 16)" data-offset="12">
             <g>
               <path d="M 0,0 L 12,13 V 13 Q 12,13 22,13 H 63.53125 Q 73.53125,13 73.53125,3 V -3 Q 73.53125,-13 63.53125,-13 H 22 Q 12,-13 12,-13 V -13 z" fill="#6963FF" stroke="#6963FF"></path>
-              <text alignment-baseline="central" dominant-baseline="central" fill="white" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="22" y="0">v0.1.0</text>
+              <text alignment-baseline="central" dominant-baseline="central" fill="white" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="22" y="5">v0.1.0</text>
             </g>
           </g>
         </g>
@@ -178,12 +178,12 @@
         </g>
         <g transform="translate(-100, 0)">
           <g transform="translate(300, 16)">
-            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">chore: release v0.1.0</text>
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">chore: release v0.1.0</text>
           </g>
           <g transform="translate(200, 0)">
             <g>
               <rect width="90" height="26" rx="10" fill="white" stroke="#6BDB52"></rect>
-              <text alignment-baseline="central" dominant-baseline="central" fill="#6BDB52" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13">production</text>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#6BDB52" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="16">production</text>
             </g>
           </g>
         </g>
@@ -203,12 +203,12 @@
         </g>
         <g transform="translate(-150, 0)">
           <g transform="translate(391.46875, 16)">
-            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">fix: prevent server from crashing when providing an empty username</text>
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">fix: prevent server from crashing</text>
           </g>
           <g transform="translate(200, 0)">
             <g>
               <rect width="181.46875" height="27" rx="10" fill="white" stroke="#E84BA5"></rect>
-              <text alignment-baseline="central" dominant-baseline="central" fill="#E84BA5" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13.5">hotfix/fix-password-hash</text>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#E84BA5" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="16">hotfix/fix-password-hash</text>
             </g>
           </g>
         </g>
@@ -231,12 +231,12 @@
         </g>
         <g transform="translate(0, 0)">
           <g transform="translate(283.4375, 16)">
-            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">fix: prevent server from crashing when providing an empty username</text>
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">fix: prevent server from crashing</text>
           </g>
           <g transform="translate(200, 0)">
             <g>
               <rect width="73.4375" height="26" rx="10" fill="white" stroke="#6963FF"></rect>
-              <text alignment-baseline="central" dominant-baseline="central" fill="#6963FF" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13">develop</text>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#6963FF" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="16">develop</text>
             </g>
           </g>
         </g>
@@ -256,18 +256,18 @@
         </g>
         <g transform="translate(0, 0)">
           <g transform="translate(366.96875, 16)">
-            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">chore: bump version to v0.1.1</text>
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">chore: bump version to v0.1.1</text>
           </g>
           <g transform="translate(200, 0)">
             <g>
               <rect width="73.4375" height="26" rx="10" fill="white" stroke="#6963FF"></rect>
-              <text alignment-baseline="central" dominant-baseline="central" fill="#6963FF" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13">develop</text>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#6963FF" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="16">develop</text>
             </g>
           </g>
           <g transform="translate(283.4375, 16)" data-offset="12">
             <g>
               <path d="M 0,0 L 12,13 V 13 Q 12,13 22,13 H 63.53125 Q 73.53125,13 73.53125,3 V -3 Q 73.53125,-13 63.53125,-13 H 22 Q 12,-13 12,-13 V -13 z" fill="#6963FF" stroke="#6963FF"></path>
-              <text alignment-baseline="central" dominant-baseline="central" fill="white" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="22" y="0">v0.1.1</text>
+              <text alignment-baseline="central" dominant-baseline="central" fill="white" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="22" y="5">v0.1.1</text>
             </g>
           </g>
         </g>
@@ -290,12 +290,12 @@
         </g>
         <g transform="translate(-100, 0)">
           <g transform="translate(300, 16)">
-            <text alignment-baseline="central" dominant-baseline="central" fill="black" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">chore: release v0.1.1</text>
+            <text alignment-baseline="central" dominant-baseline="central" fill="black" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji">chore: release v0.1.1</text>
           </g>
           <g transform="translate(200, 0)">
             <g>
               <rect width="90" height="26" rx="10" fill="white" stroke="#6BDB52"></rect>
-              <text alignment-baseline="central" dominant-baseline="central" fill="#6BDB52" style="font: normal 11pt -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="13">production</text>
+              <text alignment-baseline="central" dominant-baseline="central" fill="#6BDB52" font-size="1.3em" style="font: normal 16px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" x="10" y="16">production</text>
             </g>
           </g>
         </g>
